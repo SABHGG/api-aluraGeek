@@ -1,0 +1,203 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Figura de acción de Iron Man",
+      "imgUrl": "https://picsum.photos/306/304",
+      "price": 29.99,
+      "categoryId": 1,
+      "description": "Figura de acción detallada de Iron Man, inspirada en el famoso superhéroe de Marvel. Perfecta para coleccionistas y fanáticos de los Vengadores."
+    },
+    {
+      "id": 2,
+      "name": "Camiseta con estampado de galaxia",
+      "imgUrl": "https://picsum.photos/300/300",
+      "price": 15.99,
+      "categoryId": 2,
+      "description": "Camiseta cósmica con un impresionante estampado de galaxia. Fabricada con algodón suave y duradero. Ideal para los amantes del espacio y la moda."
+    },
+    {
+      "id": 3,
+      "name": "Libro: El Señor de los Anillos",
+      "imgUrl": "https://picsum.photos/305/303",
+      "price": 24.95,
+      "categoryId": 3,
+      "description": "Edición especial del clásico 'El Señor de los Anillos' de J.R.R. Tolkien. Sumérgete en el mundo de la Tierra Media con esta emocionante saga de aventuras épicas y magia."
+    },
+    {
+      "id": 4,
+      "name": "Cómic de Spider-Man",
+      "imgUrl": "https://picsum.photos/301/302",
+      "price": 9.99,
+      "categoryId": 3,
+      "description": "Únete a las emocionantes hazañas del Hombre Araña con este cómic de Spider-Man. Disfruta de las aventuras en solitario del querido superhéroe de Marvel."
+    },
+    {
+      "id": 5,
+      "name": "Figura de acción de Batman",
+      "imgUrl": "https://picsum.photos/302/301",
+      "price": 27.99,
+      "categoryId": 1,
+      "description": "Figura de acción detallada de Batman, el icónico vigilante de Gotham City. Perfecta para fans de DC Comics y coleccionistas de superhéroes."
+    },
+    {
+      "id": 6,
+      "name": "Pantalones vaqueros desgastados",
+      "imgUrl": "https://picsum.photos/307/305",
+      "price": 39.95,
+      "categoryId": 2,
+      "description": "Pantalones vaqueros de estilo desgastado con un toque moderno. Diseño cómodo y a la moda para lucir un look casual y relajado."
+    },
+    {
+      "id": 7,
+      "name": "Libro: Harry Potter y la Piedra Filosofal",
+      "imgUrl": "https://picsum.photos/304/306",
+      "price": 18.99,
+      "categoryId": 3,
+      "description": "Sumérgete en el mundo mágico con la primera entrega de la serie 'Harry Potter'. Acompaña a Harry en su emocionante viaje en el Colegio Hogwarts de Magia y Hechicería."
+    },
+    {
+      "id": 8,
+      "name": "Cómic de Wonder Woman",
+      "imgUrl": "https://picsum.photos/303/302",
+      "price": 8.99,
+      "categoryId": 3,
+      "description": "Explora las increíbles aventuras de Wonder Woman en este emocionante cómic. Descubre la fuerza y valentía de la Princesa Amazona en su lucha por la justicia."
+    },
+    {
+      "id": 9,
+      "name": "Figura de acción de Spider-Man",
+      "imgUrl": "https://picsum.photos/305/307",
+      "price": 32.99,
+      "categoryId": 1,
+      "description": "Captura la esencia del trepamuros con esta figura de acción detallada de Spider-Man. Perfecta para fans de Marvel y coleccionistas de superhéroes."
+    },
+    {
+      "id": 10,
+      "name": "Blusa de encaje elegante",
+      "imgUrl": "https://picsum.photos/306/303",
+      "price": 22.95,
+      "categoryId": 2,
+      "description": "Blusa de encaje perfecta para ocasiones especiales. Diseño elegante que combina comodidad y estilo, ideal para resaltar tu belleza en eventos importantes."
+    },
+    {
+      "id": 11,
+      "name": "Libro: 1984",
+      "imgUrl": "https://picsum.photos/307/306",
+      "price": 14.75,
+      "categoryId": 3,
+      "description": "Sumérgete en el mundo distópico de '1984' de George Orwell. Una obra clásica que explora la vigilancia estatal y la lucha por la libertad en una sociedad opresiva."
+    },
+    {
+      "id": 12,
+      "name": "Cómic de X-Men",
+      "imgUrl": "https://picsum.photos/302/303",
+      "price": 7.99,
+      "categoryId": 3,
+      "description": "Únete a los mutantes de los X-Men en este emocionante cómic. Descubre sus poderes únicos y lucha contra las amenazas que enfrenta la humanidad."
+    },
+    {
+      "id": 13,
+      "name": "Figura de acción de Capitán América",
+      "imgUrl": "https://picsum.photos/301/305",
+      "price": 31.99,
+      "categoryId": 1,
+      "description": "Celebra el espíritu patriótico con esta figura de acción del Capitán América. Detalles excepcionales para homenajear al superhéroe defensor de la justicia."
+    },
+    {
+      "id": 14,
+      "name": "Jeans ajustados rasgados",
+      "imgUrl": "https://picsum.photos/303/301",
+      "price": 37.95,
+      "categoryId": 2,
+      "description": "Jeans ajustados con detalles rasgados para un estilo moderno y atrevido. Ideal para quienes buscan un look urbano y lleno de actitud."
+    },
+    {
+      "id": 15,
+      "name": "Libro: Cien años de soledad",
+      "imgUrl": "https://picsum.photos/305/306",
+      "price": 21.5,
+      "categoryId": 3,
+      "description": "Descubre la magia y la tragedia en 'Cien años de soledad' de Gabriel García Márquez. Una obra maestra que te transportará a un mundo mágico y real a la vez."
+    },
+    {
+      "id": 16,
+      "name": "Cómic de The Avengers",
+      "imgUrl": "https://picsum.photos/306/302",
+      "price": 10.99,
+      "categoryId": 3,
+      "description": "Únete a la emocionante reunión de superhéroes en este cómic de The Avengers. Vive las épicas batallas y alianzas para proteger el mundo de las amenazas."
+    },
+    {
+      "id": 17,
+      "name": "Lámina de arte abstracto",
+      "imgUrl": "https://picsum.photos/304/305",
+      "price": 19.99,
+      "categoryId": 1,
+      "description": "Decora tu espacio con esta hermosa lámina de arte abstracto. Añade un toque de color y estilo a cualquier habitación."
+    },
+    {
+      "id": 18,
+      "name": "Bufanda de invierno",
+      "imgUrl": "https://picsum.photos/302/304",
+      "price": 12.5,
+      "categoryId": 2,
+      "description": "Mantén el calor con esta suave bufanda de invierno. Ideal para enfrentar los días fríos con comodidad y estilo."
+    },
+    {
+      "id": 19,
+      "name": "Libro: Orgullo y prejuicio",
+      "imgUrl": "https://picsum.photos/306/301",
+      "price": 16.75,
+      "categoryId": 3,
+      "description": "Sumérgete en el mundo de la sociedad inglesa del siglo XIX con 'Orgullo y prejuicio' de Jane Austen. Una historia de amor y convenciones sociales."
+    },
+    {
+      "id": 20,
+      "name": "Cómic de Black Panther",
+      "imgUrl": "https://picsum.photos/303/304",
+      "price": 11.99,
+      "categoryId": 3,
+      "description": "Explora la cultura y la valentía de Black Panther en este emocionante cómic. Acompaña al rey T'Challa en su lucha por Wakanda y la justicia."
+    },
+    {
+      "id": 21,
+      "name": "Figura de acción de Wolverine",
+      "imgUrl": "https://picsum.photos/305/307",
+      "price": 34.99,
+      "categoryId": 1,
+      "description": "La feroz figura de acción de Wolverine, el mutante con garras de adamantium. Ideal para los aficionados de los X-Men y coleccionistas de cómics."
+    },
+    {
+      "id": 22,
+      "name": "Chaqueta de cuero vintage",
+      "imgUrl": "https://picsum.photos/307/305",
+      "price": 79.95,
+      "categoryId": 2,
+      "description": "Chaqueta de cuero estilo vintage para un look audaz y atemporal. Perfecta para quienes buscan un toque de rebeldía en su vestimenta."
+    },
+    {
+      "id": 23,
+      "name": "Figura de acción de Hulk",
+      "imgUrl": "https://picsum.photos/308/306",
+      "price": 45.99,
+      "categoryId": 1,
+      "description": "La imponente figura de acción de Hulk, el gigante verde de Marvel. Captura la fuerza y la furia del personaje en esta pieza para coleccionistas."
+    },
+    {
+      "id": 24,
+      "name": "Zapatillas deportivas de diseñador",
+      "imgUrl": "https://picsum.photos/305/308",
+      "price": 59.95,
+      "categoryId": 2,
+      "description": "Zapatillas deportivas con un diseño innovador y cómodo. Ideal para quienes buscan comodidad y estilo en su calzado diario."
+    },
+    {
+      "id": "eb7a4065-021c-4a62-b114-9520e6e1d39e",
+      "name": "pajaro de pantera negra",
+      "imgUrl": "https://picsum.photos/306/304",
+      "price": "19.99",
+      "description": "tu mama en tanga"
+    }
+  ]
+}
